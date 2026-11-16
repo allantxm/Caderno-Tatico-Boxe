@@ -222,6 +222,18 @@
       "dificuldade": "Fácil",
       "favorito": false,
       "data": "2026-11-10"
+    },
+    {
+      "id": "0413c92e89884955",
+      "tipo": "Treino",
+      "titulo": "Treino - 13/11/2026",
+      "categoria": "Técnica",
+      "descricao": "Foco da Sessão: Fundamentos técnicos, movimentação e condicionamento específico (\"básico bem feito\").\n\nAmbiente / Turma: Turma reduzida (4 alunos regulares + 2 iniciantes), clima focado e produtivo.\n\nEstrutura do Treino:\n\nSombra (Shadowboxing): Refinamento de postura, footwork, equilíbrio e limpeza mecânica dos golpes.\n\nManopla (Padwork): Ajuste de tempo de reação, precisão, ritmo de combinações e resposta rápida ao comando do treinador.\n\nSaco de Pancadas (Heavy Bag): Aplicação de potência, cadência de golpes, controle de distância e descarga de tensão.",
+      "fonte": "",
+      "link_video": "",
+      "dificuldade": "Fácil",
+      "favorito": false,
+      "data": "2026-11-16"
     }
   ]
 }
