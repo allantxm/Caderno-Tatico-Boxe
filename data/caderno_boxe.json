@@ -23,18 +23,6 @@
       "dificuldade": "Médio",
       "favorito": false,
       "data": "2026-10-01"
-    },
-    {
-      "id": "a57250a1ecfb4bab",
-      "tipo": "Dica",
-      "titulo": "Treino 17/11/2026",
-      "categoria": "Estratégia & Sparring",
-      "descricao": "Foco da Sessão: Sparring variado com múltiplos parceiros, leitura defensiva (timing de esquiva) e gestão de distância contra envergadura maior.\n\nAmbiente / Turma: Treino bastante movimentado com vários rounds de sparring entre os alunos regulares. No pós-aula, rolou ainda um sparring limpo e respeitoso entre os juvenis (~18 anos, ~2 meses de treino).\n\nDesempenho & Pontos Positivos:\n\nÓtimo rendimento geral: Fiz sparring com vários colegas e me saí muito bem na maior parte dos rounds, impondo bom ritmo e controle.\n\nEsquivas em dia: Excelente tempo de reação e leitura defensiva contra os demais colegas, saindo dos golpes no timing certo.\n\nRitmo competitivo: Encarei rounds duros contra o Giovanni (colega muito técnico e talentoso que está se preparando para a primeira luta amadora), servindo como um grande teste de nível.\n\nDificuldades & Ajustes Técnicos:\n\nGestão de distância contra o Giovanni: A grande diferença de altura e envergadura dificultou muito o jogo. Como ele usa bem o braço esticado (long guard) seguido de direto, mesmo acertando o timing da esquiva, eu ainda ficava fora de alcance para contragolpear.\n\nÂngulo de esquiva baixa: Ao abaixar a cabeça sem sair totalmente do eixo lateral, acabei recebendo um direto descendente no topo da cabeça (gerou dor de cabeça até a manhã seguinte, resolvida com descanso e dipirona).\n\nFoco para os próximos treinos: Trabalhar a entrada em 2 tempos (esquiva + passo na diagonal para invadir a distância antes de soltar a mão) e manter a saída lateral ao abaixar para proteger o topo da cabeça.",
-      "fonte": "",
-      "link_video": "",
-      "dificuldade": "Difícil",
-      "favorito": false,
-      "data": "2026-11-17"
     }
   ],
   "combos": [],
@@ -246,6 +234,18 @@
       "dificuldade": "Fácil",
       "favorito": false,
       "data": "2026-11-13"
+    },
+    {
+      "id": "a57250a1ecfb4bab",
+      "tipo": "Treino",
+      "titulo": "Treino 17/11/2026",
+      "categoria": "Estratégia & Sparring",
+      "descricao": "Foco da Sessão: Sparring variado com múltiplos parceiros, leitura defensiva (timing de esquiva) e gestão de distância contra envergadura maior.\n\nAmbiente / Turma: Treino bastante movimentado com vários rounds de sparring entre os alunos regulares. No pós-aula, rolou ainda um sparring limpo e respeitoso entre os juvenis (~18 anos, ~2 meses de treino).\n\nDesempenho & Pontos Positivos:\n\nÓtimo rendimento geral: Fiz sparring com vários colegas e me saí muito bem na maior parte dos rounds, impondo bom ritmo e controle.\n\nEsquivas em dia: Excelente tempo de reação e leitura defensiva contra os demais colegas, saindo dos golpes no timing certo.\n\nRitmo competitivo: Encarei rounds duros contra o Giovanni (colega muito técnico e talentoso que está se preparando para a primeira luta amadora), servindo como um grande teste de nível.\n\nDificuldades & Ajustes Técnicos:\n\nGestão de distância contra o Giovanni: A grande diferença de altura e envergadura dificultou muito o jogo. Como ele usa bem o braço esticado (long guard) seguido de direto, mesmo acertando o timing da esquiva, eu ainda ficava fora de alcance para contragolpear.\n\nÂngulo de esquiva baixa: Ao abaixar a cabeça sem sair totalmente do eixo lateral, acabei recebendo um direto descendente no topo da cabeça (gerou dor de cabeça até a manhã seguinte, resolvida com descanso e dipirona).\n\nFoco para os próximos treinos: Trabalhar a entrada em 2 tempos (esquiva + passo na diagonal para invadir a distância antes de soltar a mão) e manter a saída lateral ao abaixar para proteger o topo da cabeça.",
+      "fonte": "",
+      "link_video": "",
+      "dificuldade": "Difícil",
+      "favorito": false,
+      "data": "2026-11-17"
     }
   ]
 }
